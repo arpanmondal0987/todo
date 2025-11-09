@@ -1,0 +1,10 @@
+
+input{
+    width: 100%;
+}
+.am-row {
+    margin: 5px 3px;
+}
+.am-button {
+    min-width: 100px;
+}
