@@ -13,7 +13,7 @@ function AddToDo({onNewItem}) {
     const handelAddButton = (event)=>{
          onNewItem(todoName,dueDate);
          event.preventDefault();
-         setTodoName("");
+         setTodoName(""); 
          setDueDate("");
     }
 
